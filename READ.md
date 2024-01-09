@@ -1,0 +1,4 @@
+- Apples
+- Rice
+- Cereal
+- Milk
